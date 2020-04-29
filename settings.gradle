@@ -1,0 +1,2 @@
+rootProject.name='Shopcenter'
+include ':app'
